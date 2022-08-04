@@ -1,0 +1,24 @@
+body {
+  background-color: #CEE5D0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #94B49F;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #125B50;
+  font-family: Georgia, Verdana, sans-serif;
+}
+
+h3 {
+  color: #377D71;
+}
